@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(90deg,
+            rgb(15, 15, 23) 0%,
+            rgb(37, 37, 43) 35%,
+            rgb(58, 60, 61) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(195, 194, 194);
+}
+
+.imgalign {
+
+    width: 250px;
+
+    display: inline-flex;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+
+footer {
+    background-color: rgb(171, 169, 169);
+    color: #252424;
+    text-align: center;
+    border-bottom: 0;
+}
